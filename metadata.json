@@ -1,0 +1,6 @@
+{
+  "name": "Шеф-Сушист Одеса — Інтерактивне Портфоліо та Резюме",
+  "description": "Інтерактивне кулінарне резюме та портфоліо професійного сушиста, старшого зміни та шеф-кухаря в Одесі (11+ років досвіду в HoReCa).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
