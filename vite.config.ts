@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
+base: 'karaban-resume'
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
